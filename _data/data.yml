@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Syam J Prakash
-    tagline: Operations Engineer
+    tagline: Devops Aspirant
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -53,9 +53,9 @@ career-profile:
       
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.Tech in Computer Science
+      university: University of Calicut
+      time: 2008 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,36 +66,20 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+  
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Application Support Engineer
+      time: April 2018 - Present
+      company: Orion India Systems Pvt Ltd
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point
+          -	Accomplished Deployment automation using Capistrano integrated with Gitlab.
+          - Currently working on a big data project with Hadoop at Azure(HDinsight) and Ruby on Rails.
+          - Build environments from scratch and worked with different teams to successfully deploy the code to production.
+          - Implementation of Backup/Retention policy using bash scripts.
+          -	Automating daily reports from Database using bash script.
+          -	Monitoring Cloud server health Azure portal(AppInsights) and HDInsight using Ambari.
+          -	Handling technical issues via ticketing system, chats, organizing con-calls with different stake holders for timely resolution of issues.
 
     - role: Senior Software Engineer
       time: 2014 - 2015
