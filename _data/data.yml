@@ -15,7 +15,7 @@ sidebar:
     email: syaaam616@gmail.com
     phone: +91-8301830959
     website: #blog.webjeda.com #do not add http://
-    linkedin: 
+    linkedin: www.linkedin.com/in/syam-j-prakash-54509959/
     github: syamj
     gitlab:
     bitbucket:
@@ -80,102 +80,55 @@ experiences:
           -	Automating daily reports from Database using bash script.
           -	Monitoring Cloud server health Azure portal(AppInsights) and HDInsight using Ambari.
           -	Handling technical issues via ticketing system, chats, organizing con-calls with different stake holders for timely resolution of issues.
+          - Enabled Monitoring of server's using ZABBIX.
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Operations Engineer
+      time: September 2015 - March 2018
+      company: Mobme Wireless Soln Limited
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+   
+          - Hands on Experience in Linux servers, configuring ssh, Mysql, Networking, System administration, Telecom ss7 technologies.
+          -	Installing and configuring a new Ubuntu server with all necessary packages for development like RVM rubies, Nginx, Kannel etc.
+          -	Assist Engineering Lead – Operations in technology transformations for the Operations division.
+          -	Identify bugs and work closely with DEV team on fixing them.
+          -	Familiarity with Amazon AWS (EC2, RDS, S3) 
+          - Automation using Ansible playbooks.
+          - Configured Nagios Plugin(ICINGA).
+          - CI/CD using Gitlab Runners.
+          -	Network troubleshooting (including iptables, firewalls).
+          -	Complete knowledge of in house applications for SMS promotions and USSD.
+          -	Automating reports from Mysql Databases using bash script.
+          
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Consultant
+      time: May 2013 - 2015
+      company: Sutherland Global Services
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+          - Expert in technical troubleshooting of SoHo networks and Windows Issues.
+          -	Support nesting team in resolving complex issues.
+          -	Diagnose, troubleshoot and resolve a wide range of connectivity issues. 
+          -	Maintain high level quality, technical expertise, soft skills, and phone etiquette skills.
+          -	Help customers identify and resolve issues pertaining to dial up configuration, web hosting and domain registration.
+          -	Adheres to high level of service ethic.
+          
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Linux
+        level: 88%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Ansible
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: Networking knowledge
+        level: 75%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: AWS
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
+  
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
