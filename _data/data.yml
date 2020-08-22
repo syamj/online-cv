@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Syam J Prakash
-    tagline: Linux | Cloud | DevOps | Automation | Bash | Git | Mysql | AWS | Azure
+    tagline: Linux | Kubernetes | DevOps |  AWS | Azure
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -47,34 +47,31 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I would like to introduce myself as an accomplished RHCE certified IT professional with 6+ years of progressive experience and proven record of significant, successful contribution in software, hardware, configuring network peripherals and their troubleshooting.
-      In my current position at Orion India Systems, I am involved in Linux server administration, application deployment using Capistrano, maintaning Gitlab repositories, automation using ansible playbooks and bash scripts.
-      Currently working closely with developers on implementing A big data project with Ruby on Rails and Azure HDI Cluster(Hadoop).
+      I would like to introduce myself as an accomplished RHCE certified IT professional with 7+ years of progressive experience and proven record of significant, successful contribution in software, hardware, configuring network peripherals and their troubleshooting.
+      In my Current position at Urolime Technologies as a Devops Engineer, I had the chance to work on Kubernetes on different cloud platforms like AWS, Azure and GCP as well as an on-premise setup.
+           
       
-
-education:
-    - degree: B.Tech in Computer Science
-      university: University of Calicut
-      time: 2008 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
   
 
 experiences:
+    - role: Devops Engineer
+      time: October 2019 - Present
+      company: Urolime technologies Pvt Ltd
+      details: |
+          -	Deployed several micro service architectured applications to Kubernetes cluster.
+          - Used Helm charts to manage deployment to the Kubernetes Cluster.
+          - Setup Gitlab CI jobs for CI/CD towards the Kubernetes CLuster.
+          - Exploring new technologies(Devops tools) to help automate development process.
+          - Worked closely with developers to understand the development methodology and helped them with all infra related issues.
+          - 
+          
+          
     - role: Application Support Engineer
-      time: April 2018 - Present
+      time: April 2018 - October 2019
       company: Orion India Systems Pvt Ltd
       details: |
           -	Accomplished Deployment automation using Capistrano integrated with Gitlab.
-          - Currently working on a big data project with Hadoop at Azure(HDinsight) and Ruby on Rails.
+          - Worked on a big data project with Hadoop at Azure(HDinsight) and Ruby on Rails.
           - Build environments from scratch and worked with different teams to successfully deploy the code to production.
           - Implementation of Backup/Retention policy using bash scripts.
           -	Automating daily reports from Database using bash script.
@@ -118,9 +115,9 @@ skills:
 
     toolset:
       - name: Linux
-        level: 88%
+        level: 80%
 
-      - name: Ansible
+      - name: Kubernetes
         level: 70%
 
       - name: Networking knowledge
@@ -128,6 +125,8 @@ skills:
 
       - name: AWS
         level: 70%
+      - name: Azure
+        level: 50%
 
   
 footer: >
