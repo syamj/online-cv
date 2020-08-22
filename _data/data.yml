@@ -58,12 +58,12 @@ experiences:
       time: October 2019 - Present
       company: Urolime technologies Pvt Ltd
       details: |
-          -	Deployed several micro service architectured applications to Kubernetes cluster.
+          -	Deployed several micro service architectured applications to Kubernetes cluster(AKS,GKE&GCP).
           - Used Helm charts to manage deployment to the Kubernetes Cluster.
-          - Setup Gitlab CI jobs for CI/CD towards the Kubernetes CLuster.
+          - Setup Gitlab CI jobs for CI/CD towards the Kubernetes Cluster.
           - Exploring new technologies(Devops tools) to help automate development process.
+          - Setup on-prem Kubernetes Cluster using Rancher.
           - Worked closely with developers to understand the development methodology and helped them with all infra related issues.
-          - 
           
           
     - role: Application Support Engineer
